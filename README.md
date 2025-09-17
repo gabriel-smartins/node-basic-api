@@ -42,4 +42,4 @@ Usuários
 - Este projeto foi feito para fins de estudo e prática.
 - Não foram utilizadas bibliotecas externas para reforçar os conceitos básicos de Node.js.
 - Os dados podem estar sendo salvos em arquivo .json utilizando o módulo fs para simular um banco de dados.
-- Se trata de um projeto mais antigo, mas como por se tratar de um marco importante no aprendizado, e mostra conceitos fundamentais do desenvolvimento em Node, decidi por versionar.
+- Se trata de um projeto mais antigo, mas por se tratar de um marco importante no aprendizado, e mostra conceitos fundamentais do desenvolvimento em Node, decidi por versionar.
